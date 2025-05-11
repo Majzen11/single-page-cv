@@ -1,6 +1,8 @@
 # single-page-cv
 Roadmap.sh project: Single page CV
 
+Project-URL: https://roadmap.sh/projects/single-page-cv
+
 ## URL for final project:
 https://majzen11.github.io/single-page-cv/
 
